@@ -1,6 +1,6 @@
 # ulas_sat
 
-A new Flutter project.
+Flutter müsic app ui
 
 ## Getting Started
 
